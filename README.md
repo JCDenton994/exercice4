@@ -1,19 +1,4 @@
-
-# dartlero_example
-
-**Categories**: education, class models.
-
-**Concepts**: Project.
-
-**Description**:
-An example how to use Dartlero, a model framework for educational purposes.
-
-**Start**:
-Clone the project and the open it with Dart Editor. 
-Run pub to install necessary packages. 
-
-
-
-
+SIO-6014 David M. Lambert 908 140 097 
+Exercice 4 à partir de AngularJS
 
 
