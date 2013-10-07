@@ -1,0 +1,30 @@
+ex04
+
+6/10
+
+pubspec.lock est @GitHub ?
+https://github.com/JCDenton994/exercice4/tree/5397f810fb209ce603b6fc8a2eff996ae40974b7
+git rm pubspec.lock
+
+Demandes_entities.dart -> demandes_entities.dart
+bool get Eleve -> bool get eleve
+(-1) ...
+voir https://www.dartlang.org/articles/style-guide/
+
+(-1) project_model_test.dart ? project ?
+
+var idRecherche = '123456'; ? 'F123456' ?
+
+Liste des demandes à priorité élevé
+[
+  {
+     code: null,
+     id: F123456,
+     titre: Réaliser le projet de facturation
+    priorite: Eleve
+  }
+]
+
+PASS: Test demandes Toutes les demandes doivent avoir un identifiant unique
+(-2) Unhandled exception:
+FormatException: Couldn't parse VM stack trace line '#6      _Future._propagateToListeners.<anonymous closure> (dart:async/future_impl.dart:449)'.
